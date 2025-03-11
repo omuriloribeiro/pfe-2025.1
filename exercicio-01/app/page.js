@@ -6,11 +6,8 @@ export default function Home() {
   const nome = "eduardo";
   return (
   <div>
-    <h1>Mano {nome} é o cara</h1>
-    <p>el mano</p>
-    <button>denis dj</button>
-    <Texto1></Texto1>
-    <Texto1></Texto1>
+    <h1>Exercícios Programação Front-end 2025.1</h1>
+    <a href="/exercicio01.js">Exercício 01 - Componente Dado</a>
   </div>
  
 
