@@ -1,15 +1,12 @@
-function Texto1() {
-  return <p>OLA OLA OLA</p>;
-}
+import Link from 'next/link';
 
 export default function Home() {
-  const nome = "eduardo";
   return (
-  <div>
-    <h1>Exercícios Programação Front-end 2025.1</h1>
-    <a href="./app/exercicio01.js">Exercício 01 - Componente Dado</a>
-  </div>
- 
-
+    <div>
+      <h1>Exercícios Programação Front-end 2025.1</h1>
+      <Link href="/exercicio01">
+        <a>Exercício 01 - Componente Dado</a>
+      </Link>
+    </div>
   );
 }

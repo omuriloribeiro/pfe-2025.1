@@ -1,1 +1,1 @@
-Olá
+<button>Rolar dado</button>
