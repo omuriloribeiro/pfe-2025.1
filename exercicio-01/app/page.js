@@ -7,7 +7,7 @@ export default function Home() {
   return (
   <div>
     <h1>Exercícios Programação Front-end 2025.1</h1>
-    <a href="/exercicio01.js">Exercício 01 - Componente Dado</a>
+    <a href="./app/exercicio01.js">Exercício 01 - Componente Dado</a>
   </div>
  
 
