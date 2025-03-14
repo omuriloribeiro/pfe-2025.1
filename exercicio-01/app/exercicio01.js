@@ -1,1 +1,0 @@
-<button>Rolar dado</button>
